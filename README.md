@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Welcome to my Github. I hope to make this space a reflection of my learning and to come back to this README to create something fun and interactive after I've done some research! Be back soon :)
 
 <!--
 **Ariel-Doyle/Ariel-Doyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
